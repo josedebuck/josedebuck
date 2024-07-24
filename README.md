@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="400" height="400" src="https://i.makeagif.com/media/4-29-2017/c1VKAm.gif" alt="dwight" width="300"/>
+<img align="right" src="https://i.makeagif.com/media/4-29-2017/c1VKAm.gif" alt="dwight" width="400"/>
 
 A Full Stack Developer 🚀 from Argentina. I consider myself as a skilled JS and React JS Developer with good debugging skills.
 
